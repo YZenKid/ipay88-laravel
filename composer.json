@@ -1,0 +1,25 @@
+{
+    "name": "yogie/ipay88",
+    "description": "Ipay88 payment gateway module",
+    "keywords": [
+        "ipay88",
+        "indonesia",
+        "api"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IPay88\\": "src/IPay88"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yogie Setya Nugraha",
+            "email": "yogiesetyanugraha@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": ">=5.4.*"
+    }
+}
