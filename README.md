@@ -7,7 +7,7 @@ Ipay88 payment gateway module.
 Dokumentasi lengkap bisa di lihat di [IPAY88](https://docs.ipay88.co.id/)
 
 ```bash
-$ composer require aljawad/php-ipay88 dev-master
+$ composer require yogie/ipay88 dev-master
 ```
 
 ## Example Controller
